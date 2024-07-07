@@ -14,7 +14,7 @@ variable "cidr_block" {
 
 variable "public_subnets" {
   type = list(string)
-  default = []
+  default = [] 
   description = "public nets from tfvars"
 }
 
