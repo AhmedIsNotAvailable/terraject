@@ -8,3 +8,4 @@ public_subnets = [ "10.0.8.0/22", "10.0.12.0/22"]
 
 azs = ["us-east-2a", "us-east-2b"]
 
+

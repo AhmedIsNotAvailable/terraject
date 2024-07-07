@@ -25,7 +25,6 @@ resource "aws_vpc" "main" {
   }
 }
 
-
 #------------> DECLARE SUBNETS
 
 #can init subnets with vpc using 'module'
